@@ -138,7 +138,6 @@ var styles = StyleSheet.create({
     flexDirection: 'row',
     backgroundColor: '#48afdb',
     justifyContent: 'center',
-    color: '#FFFFFF',
     borderRadius: 4,
   },
   btnText: {
